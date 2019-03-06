@@ -1,3 +1,4 @@
 Un fichier .txt créé depuis la console
 
 Modification depuis la branche_test pour tester la fusion
+Texte écrit pendant que mes modifications sont mises de côté
