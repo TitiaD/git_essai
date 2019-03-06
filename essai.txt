@@ -1,4 +1,8 @@
 Un fichier .txt créé depuis la console
 
 Modification depuis la branche_test pour tester la fusion
+<<<<<<< Updated upstream
 Texte écrit pendant que mes modifications sont mises de côté
+=======
+modification mise en attente
+>>>>>>> Stashed changes
